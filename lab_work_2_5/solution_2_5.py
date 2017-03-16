@@ -1,11 +1,11 @@
 """create dict with 5 items, where keys will be country name and value - domain name, i.e. {Ukraine:UA}
 """
-COUNT = {'France': 'FR', 'Spain': 'SP', 'Great Britain': 'GB', 'Italy': 'IT', 'Poland': 'PL',}
+COUNT = {'France': 'FR', 'Spain': 'SP', 'Great Britain': 'GB', 'Italy': 'IT', 'Poland': 'PL'}
 print(COUNT)
 
 """create another dict with 5 items, where values of countries will be keys, and values will be the capitals i.e. {'UA': 'Kiev'}
 """
-CAP = {'FR': 'Paris', 'SP': 'Madrid', 'GB': 'London', 'IT': 'Rome', 'PL': 'Warsaw',}
+CAP = {'FR': 'Paris', 'SP': 'Madrid', 'GB': 'London', 'IT': 'Rome', 'PL': 'Warsaw'}
 print(CAP)
 
 """add one more element to each dict above
