@@ -4,7 +4,7 @@
 
 Write the code to do following:
 
-- create dict with 5 items, where keys will be country name and value - domain name, i.e.{Ukraine:UA}
+- create dict with 5 items, where keys will be country name and value - domain name, i.e. {Ukraine:UA}
 - create another dict with 5 items, where values of countries will be keys, and values will be the capitals i.e. {'UA': 'Kiev'}
 - add one more element to each dict above
 - print sentence "Domain for COUNTRY is DOMAIN." for each record in countries with the replace from dicts
