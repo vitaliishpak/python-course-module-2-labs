@@ -1,4 +1,4 @@
-"""create dict with 5 items, where keys will be country name and value - domain name, i.e. {Ukraine:UA}
+"""create dict with 5 items, where keys will be country name and value - domain name, i.e.{Ukraine:UA}
 """
 COUNT = {'France': 'FR', 'Spain': 'SP', 'Great Britain': 'GB', 'Italy': 'IT', 'Poland': 'PL',}
 print(COUNT)
